@@ -12,11 +12,24 @@ This is a simple note-taking application built with React. It allows users to cr
 - Responsive design for mobile and desktop.
 
 ## Setup Instructions
-To run the app locally, follow these steps:
+# Note-Taking Application
 
-1.Install npm inside the note-taking-app locally
+## Description
+A simple note-taking application built with React that allows users to create, edit, and delete notes.
 
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/note-taking-app.git
-   cd Note-taking-app
+## Features
+- Create, edit, and delete notes.
+- List all notes with titles and summaries.
+- Responsive design for mobile and desktop.
+
+## Installation
+1. Clone the repository: `git clone https://github.com/yourusername/note-taking-app`
+2. Navigate to the project directory: `cd note-taking-app`
+3. Install dependencies: `npm install`
+4. Start the application: `npm start`
+
+## Contributing
+Feel free to open issues or submit pull requests.
+
+## License
+This project is licensed under the MIT License.
